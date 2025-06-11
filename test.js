@@ -3,6 +3,7 @@ const { generarGrafico } = require('./graficas');
 
 const datos = [10, 20, 30, 40, 50];
 
+
 console.log('Promedio:', promedio(datos));
 console.log('Desviación estándar:', desviacionEstandar(datos));
 
